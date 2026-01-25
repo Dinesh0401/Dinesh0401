@@ -11,11 +11,11 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 
 ## 🧠 What I Work On
 
-- LLM evaluation & benchmarking (Banking77, intent classification)
+- LLM evaluation & benchmarking 
 - Retrieval-Augmented Generation (RAG) systems with vector databases
 - Multi-agent architectures (CrewAI, AutoGen)
 - End-to-end ML & Data Engineering pipelines
-- Cloud-native MLOps workflows (AWS, Azure)
+- Cloud-native MLOps workflows (AWS, Azure, GCP)
 
 ---
 
