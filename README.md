@@ -1,4 +1,4 @@
-<h1 align="center">GenAI Engineer | Aspiring LLMOps Engineer</h1>
+<h1 align="center">GenAI Engineer </h1>
 
 <p align="center">
 LLM Evaluation • RAG Systems • Data Engineering • MLOps  
