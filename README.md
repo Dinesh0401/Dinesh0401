@@ -3,7 +3,7 @@
 <p align="center">
 Aspiring <b>LLMOps Engineer</b> | LLM Evaluation • RAG Systems • Data Engineering • MLOps  
 <br/>
-I focus on building, evaluating, and operationalizing LLM-based systems — not just demos.
+I focus on building, evaluating, and operationalizing LLM-based systems not just demos.
 </p>
 
 ---
@@ -87,13 +87,13 @@ I actively work on:
 ## 📫 Connect With Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/dinesh-s-j-780340285" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50"/>
   </a>
-  <a href="https://discord.gg/YOUR_DISCORD" target="_blank">
+  <a href="https://discord.gg/dineshsj_95909" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50"/>
   </a>
   <a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">
@@ -102,7 +102,7 @@ I actively work on:
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50"/>
   </a>
-  <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
+  <a href="https://medium.com/@dineshsj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="50"/>
   </a>
 </div>
