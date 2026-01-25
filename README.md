@@ -90,16 +90,16 @@ Hands-on focus areas:
 <div align="left">
   <a href="https://www.linkedin.com/in/dinesh-s-j-780340285">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
-  </a>
+  </a> 
   <a href="https://twitter.com/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50"/>
-  </a>
+  </a> 
   <a href="https://discord.gg/dineshsj_95909">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50"/>
-  </a>
+  </a> 
   <a href="https://medium.com/@dineshsj">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="50"/>
-  </a>
+  </a> 
 </div>
 
 ---
