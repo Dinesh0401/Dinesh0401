@@ -19,7 +19,7 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="50"/>
