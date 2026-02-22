@@ -1,7 +1,7 @@
 <h1 align="center">GenAI Engineer </h1>
 
 <p align="center">
-Learning/Working -- LLM Evaluation • RAG Systems • Data Engineering • MLOps  • Agentic Lm
+Learning/Working -- LLM Evaluation • RAG Systems • Data Engineering • MLOps  • Agentic systems • Traditional/Modern ai
 <br/>
 I focus on building, evaluating, and operationalizing LLM-based systems with an emphasis on
 <b>reproducibility, benchmarking, and deployment</b>.
