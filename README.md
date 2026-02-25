@@ -1,4 +1,4 @@
-<h1 align="center">GenAI Engineer </h1>
+<h1 align="center">Student / GenAI Engineer </h1>
 
 <p align="center">
 Learning/Working -- LLM Evaluation • RAG Systems • Data Engineering • MLOps  • Agentic systems • Traditional/Modern ai
