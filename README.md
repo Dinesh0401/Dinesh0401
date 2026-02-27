@@ -7,6 +7,8 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 <b>reproducibility, benchmarking, and deployment</b>.
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Dinesh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Student%20%7C%20GenAI%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
 ---
 
 ## 🧠 What I Work On
@@ -74,7 +76,6 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 </picture>
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Dinesh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Student%20%7C%20GenAI%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Dinesh0401">
