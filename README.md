@@ -88,16 +88,16 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 ## 📫 Connect With Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/dinesh-s-j-780340285">
+  <a href="https://www.linkedin.com/in/dinesh-s-j-780340285"> 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
-  </a> 
-  <a href="https://twitter.com/">
+  </a>  
+  <a href="https://twitter.com/"> 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50"/>
-  </a> 
-  <a href="https://discord.gg/dineshsj_95909">
+  </a>  
+  <a href="https://discord.gg/dineshsj_95909"> 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50"/>
-  </a> 
-  <a href="https://medium.com/@dineshsj">
+  </a>  
+  <a href="https://medium.com/@dineshsj"> 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="50"/>
   </a> 
 </div>
