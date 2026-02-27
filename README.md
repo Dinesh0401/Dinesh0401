@@ -64,16 +64,6 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 
 ---
 
-## 🧩 LLMOps Focus
-
-Hands-on focus areas:
-- Model evaluation (accuracy, prompt sensitivity, failure cases)
-- Reproducible experiments and benchmarks
-- API-based LLM services using FastAPI
-- RAG pipelines with vector databases
-- Cost and latency awareness in inference
-
----
 
 ## 📊 GitHub Activity
 
@@ -84,6 +74,49 @@ Hands-on focus areas:
 </picture>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Dinesh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Student%20%7C%20GenAI%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Dinesh0401">
+    <img src="https://komarev.com/ghpvc/?username=Dinesh0401&label=Profile%20views&color=00FFFF&style=flat-square" alt="Dinesh0401's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Dinesh0401">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dinesh0401&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Dinesh0401's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Dinesh0401&theme=radical&hide_border=true&cache_seconds=86400" alt="Dinesh0401's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Dinesh0401&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Dinesh's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dinesh0401&theme=radical&radius=10" alt="Dinesh0401's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
+
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/Dinesh0401">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dinesh0401&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/dinesh-s-j-780340285/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:s" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 📫 Connect With Me
 
