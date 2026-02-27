@@ -84,22 +84,6 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Dinesh0401">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dinesh0401&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Dinesh0401's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Dinesh0401&theme=radical&hide_border=true&cache_seconds=86400" alt="Dinesh0401's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Dinesh0401&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Dinesh's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dinesh0401&theme=radical&radius=10" alt="Dinesh0401's Activity Graph" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
 
 
 ## 🛠️ Languages & Tools
