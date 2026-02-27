@@ -1,11 +1,5 @@
 <h1 align="center">Student / GenAI Engineer </h1>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Dinesh0401">
-    <img src="https://komarev.com/ghpvc/?username=Dinesh0401&label=Profile%20views&color=00FFFF&style=flat-square" alt="Dinesh0401's profile views" />
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 <p align="center">
