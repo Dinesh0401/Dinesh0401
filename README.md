@@ -43,6 +43,15 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 </div>
 
 ---
+## 📊 GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 ## 🚀 Flagship LLM & GenAI Projects
 
@@ -64,17 +73,6 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 | [SmartCitty-DE](https://github.com/Dinesh0401/SmartCitty-DE) | Real-time Kafka + Spark streaming pipeline |
 | [Nyc-Taxi-DE](https://github.com/Dinesh0401/Nyc-Taxi-DE) | End-to-end batch data engineering workflow |
 
----
-
-
-## 📊 GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
 
 ---
 
@@ -82,7 +80,7 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/dinesh-s-j-780340285"> 
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg " width="50"/>
   </a>  
   <a href="https://twitter.com/"> 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50"/>
