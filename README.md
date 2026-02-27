@@ -1,12 +1,5 @@
 <h1 align="center">Student / GenAI Engineer </h1>
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%20%7C%20%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-Learning/Working -- LLM Evaluation • RAG Systems • Data Engineering • MLOps  • Agentic systems • Traditional/Modern ai
-<br/>
-I focus on building, evaluating, and operationalizing LLM-based systems with an emphasis on
-<b>reproducibility, benchmarking, and deployment</b>.
-</p>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Dinesh0401">
     <img src="https://komarev.com/ghpvc/?username=Dinesh0401&label=Profile%20views&color=00FFFF&style=flat-square" alt="Dinesh0401's profile views" />
@@ -14,6 +7,13 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+<p align="center">
+Learning/Working -- LLM Evaluation • RAG Systems • Data Engineering • MLOps  • Agentic systems • Traditional/Modern ai
+<br/>
+I focus on building, evaluating, and operationalizing LLM-based systems with an emphasis on
+<b>reproducibility, benchmarking, and deployment</b>.
+</p>
 
 
 ---
