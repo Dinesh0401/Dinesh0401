@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Dinesh0401">
-    <img src="https://komarev.com/ghpvc/?username=Dinesh0401&label=Profile%200views&color=00FFFF&style=flat-square" alt="Dinesh0401's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Dinesh0401&label=Profile%20views&color=00FFFF&style=flat-square" alt="Dinesh0401's profile views" />
   </a>
 </p>
 
@@ -62,14 +62,13 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 
 ---
 
-## 🏗️ Data Engineering & MLOps
+## 🏗️ Data Engineering
 
 | Project | Description |
 |------|------|
 | [AdventureWork-DE](https://github.com/Dinesh0401/AdventureWork-DE) | Azure ADF → Databricks → Synapse analytics pipeline |
 | [SmartCitty-DE](https://github.com/Dinesh0401/SmartCitty-DE) | Real-time Kafka + Spark streaming pipeline |
 | [Nyc-Taxi-DE](https://github.com/Dinesh0401/Nyc-Taxi-DE) | End-to-end batch data engineering workflow |
-| [Visa-Approval-MLOps](https://github.com/Dinesh0401/Visa-Approval---MLOps) | CI/CD ML pipeline with MLflow & Docker |
 
 ---
 
