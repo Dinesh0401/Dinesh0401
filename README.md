@@ -1,4 +1,4 @@
-<h1 align="center">Student / GenAI Engineer </h1>
+<h1 align="center">Student / Gen AI Engineer </h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
@@ -18,7 +18,7 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 - Retrieval-Augmented Generation (RAG) systems with vector databases
 - Multi-agent architectures (CrewAI, AutoGen)
 - End-to-end ML & Data Engineering pipelines
-- Cloud-native MLOps workflows (AWS, Azure, GCP)
+- Cloud workflows (AWS, Azure, GCP)
 
 ---
 
