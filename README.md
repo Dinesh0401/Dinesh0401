@@ -9,7 +9,6 @@ I focus on building, evaluating, and operationalizing LLM-based systems with an 
 <b>reproducibility, benchmarking, and deployment</b>.
 </p>
 
-
 ---
 
 ## 🧠 What I Work On
