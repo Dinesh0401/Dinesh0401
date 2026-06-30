@@ -16,7 +16,7 @@ Interested in <b>LLM Evaluation • RAG Systems • AI Agents • Analytics Engi
 - Building LLM evaluation and benchmarking systems
 - Developing RAG-based applications using vector search
 - Working with scalable ETL and cloud-based data pipelines
-- Interested in production-ready AI systems and deployment workflows
+- Interested in production-ready AI systems and deployment workflows..
 
 ---
 
