@@ -7,7 +7,7 @@ Building practical AI systems focused on LLM evaluation, retrieval pipelines, AI
 <br/>
 Interested in <b>LLM Evaluation • RAG Systems • AI Agents • Analytics Engineer • MLOps</b>
 </p>
-
+ 
 ---
 
 ## 🧠 About Me
