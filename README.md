@@ -21,7 +21,7 @@ Interested in <b>LLM Evaluation • RAG Systems • AI Agents • Analytics Engi
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -40,7 +40,7 @@ Interested in <b>LLM Evaluation • RAG Systems • AI Agents • Analytics Engi
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |----------|-------------|
@@ -50,7 +50,7 @@ Interested in <b>LLM Evaluation • RAG Systems • AI Agents • Analytics Engi
 
 ---
 
-## 🏗️ Data Engineering Projects
+##  Data Engineering Projects
 
 | Project | Description |
 |----------|-------------|
@@ -60,17 +60,25 @@ Interested in <b>LLM Evaluation • RAG Systems • AI Agents • Analytics Engi
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
-- Advanced RAG architectures
-- LLM evaluation methodologies
-- AI agent orchestration
-- Cloud-native ML workflows
-- Distributed data systems
+- Agentic AI Systems
+- Multi-Agent Orchestration
+- Advanced RAG Architectures
+- LLM Evaluation & Benchmarking
+- MCP (Model Context Protocol)
+- MLOps & AI Deployment
+- Distributed AI Systems
 
----
-
-## 📫 Connect With Me
+## Career Interests
+- AI Engineer
+- Generative AI Engineer
+- Applied AI Engineer
+- Machine Learning Engineer
+- Data Engineer
+- AI Platform Engineer
+  
+##  Connect With Me
 
 <div align="left">
 
