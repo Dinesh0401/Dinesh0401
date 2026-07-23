@@ -44,10 +44,9 @@ Interested in <b>LLM Evaluation • RAG Systems • AI Agents • Analytics Engi
 
 | Project | Description |
 |----------|-------------|
-| [Evaluating-LLM-on-Banking77](https://github.com/Dinesh0401/Evaluating-LLM-on-Banking77) | Evaluated LLM performance on real-world banking intent classification tasks |
-| [llm-classification-benchmark](https://github.com/Dinesh0401/llm-classification-benchmark) | Automated evaluation framework for benchmarking LLM classification workflows |
-| [RAG-Chatbot](https://github.com/Dinesh0401/RAG-Chatbot) | Retrieval-Augmented Generation chatbot using embeddings and vector retrieval |
-| [Multi-Agent-on-CrewAI](https://github.com/Dinesh0401/Multi-Agent-on-Crewai) | Multi-agent workflow for resume and job description analysis |
+| [WikiQA-Bench](https://github.com/Dinesh0401/WikiQA-Bench) | Benchmarking framework for evaluating RAG-based LLM systems using HotpotQA, DSPy prompt optimization, faithfulness evaluation, LLM-as-a-Judge, and ACE reflection. |
+| [Finzova](https://github.com/Dinesh0401/financial-ai) | Multi-Agent AI financial planning platform that analyzes user finances, computes financial health, and generates personalized recommendations using specialized AI agents. |
+| [JioHotstar Analytics Pipeline](https://github.com/Dinesh0401/JioHotstar-Analytics-pipeline) | End-to-end real-time data engineering and AI analytics platform using Kafka, Spark, Delta Lake, ML models, and an AI reasoning engine for natural-language business insights. |
 
 ---
 
