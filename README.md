@@ -27,24 +27,20 @@ Interested in <b>LLM Evaluation • RAG Systems • AI Agents • Analytics Engi
 
 <!-- Languages -->
 <img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
 <img src="https://skillicons.dev/icons?i=ts" height="50"/>
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50"/>
 <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50"/>
 
 <!-- Backend -->
 <img src="https://cdn.simpleicons.org/fastapi/009688" height="50"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+
 
 <!-- AI / ML -->
 <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="50"/>
 <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="50"/>
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50"/>
+
 
 <!-- Data Engineering -->
 <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="50"/>
