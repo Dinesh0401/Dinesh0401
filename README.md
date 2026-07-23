@@ -25,14 +25,39 @@ Interested in <b>LLM Evaluation • RAG Systems • AI Agents • Analytics Engi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py" height="50"/>
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=ts" height="50"/>
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50"/>
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="50"/>
-<img src="https://cdn.simpleicons.org/git/F05032" height="50"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="50"/>
+
+<!-- Backend -->
 <img src="https://cdn.simpleicons.org/fastapi/009688" height="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+
+<!-- AI / ML -->
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="50"/>
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="50"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50"/>
+
+<!-- Data Engineering -->
+<img src="https://cdn.simpleicons.org/apachekafka/231F20" height="50"/>
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="50"/>
+<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="50"/>
+
+<!-- Cloud & DevOps -->
 <img src="https://skillicons.dev/icons?i=aws" height="50"/>
 <img src="https://skillicons.dev/icons?i=azure" height="50"/>
 <img src="https://skillicons.dev/icons?i=gcp" height="50"/>
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="50"/>
+<img src="https://cdn.simpleicons.org/git/F05032" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 <img src="https://skillicons.dev/icons?i=linux" height="50"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 
@@ -73,7 +98,7 @@ Interested in <b>LLM Evaluation • RAG Systems • AI Agents • Analytics Engi
 ## Career Interests
 - AI Engineer
 - Generative AI Engineer
-- Applied AI Engineer
+- LLM Engineer
 - Machine Learning Engineer
 - Data Engineer
 - AI Platform Engineer
