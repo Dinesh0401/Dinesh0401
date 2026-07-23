@@ -10,13 +10,14 @@ Interested in <b>LLM Evaluation • RAG Systems • AI Agents • Analytics Engi
  
 ---
 
-## 🧠 About Me
+## About Me
 
-- Exploring practical applications of Generative AI and Data Engineering
-- Building LLM evaluation and benchmarking systems
-- Developing RAG-based applications using vector search
-- Working with scalable ETL and cloud-based data pipelines
-- Interested in production-ready AI systems and deployment workflows..
+- Final-year Computer Science and Business Systems student
+- Building production-ready AI applications using LLMs and Multi-Agent architectures
+- Designing scalable data engineering pipelines with Kafka, Spark, and Delta Lake
+- Developing RAG systems, LLM evaluation frameworks, and benchmarking pipelines
+- Passionate about deploying AI systems with FastAPI, Docker, and cloud-native workflows
+- Continuously learning Agentic AI, MLOps, and scalable AI infrastructure
 
 ---
 
