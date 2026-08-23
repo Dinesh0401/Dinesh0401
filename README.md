@@ -13,7 +13,7 @@ Interested in <b>LLM Evaluation • RAG Systems • AI Agents • Analytics Engi
 ## About Me
 
 - Final-year Computer Science and Business Systems student
-- Building production-ready AI applications using LLMs and Multi-Agent architectures
+- Building production-ready AI applications using LLMs and Multi-Agent architectures 
 - Designing scalable data engineering pipelines with Kafka, Spark, and Delta Lake
 - Developing RAG systems, LLM evaluation frameworks, and benchmarking pipelines
 - Passionate about deploying AI systems with FastAPI, Docker, and cloud-native workflows
