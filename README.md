@@ -23,56 +23,12 @@ Currently working on <b>Data Platforms • Data Engineering • Database Migrati
 
 ---
 
-## Current Work
-
-### Data Platform & Database Migration
-
-Currently exploring and implementing the internals of a generalized database migration platform:
-
-```text
-Source Database
-      ↓
-Source Adapter
-      ↓
-Acquisition
-      ↓
-Snapshot / CDC
-      ↓
-Durable State
-      ↓
-Transformation Runtime
-      ↓
-Target Adapter
-      ↓
-Target Database
-      ↓
-Validation
-```
-
-Areas I'm currently working with:
-
-* Oracle → PostgreSQL migration
-* Source and target schema discovery
-* Schema mapping
-* Data type transformation
-* Data cleansing and sanitization
-* Snapshot-based ingestion
-* Change Data Capture concepts
-* Oracle Redo Logs & LogMiner
-* PostgreSQL WAL
-* Incremental data movement
-* SQL-based transformation runtimes
-* Data validation and reconciliation
-* Large-scale data processing concepts
-
----
-
 ## Things I'm Currently Learning
 
 * Data Engineering & Data Platforms
 * Database Internals
 * CDC & Incremental Processing
-* Oracle → PostgreSQL Migration
+* Data Migration
 * SQL Optimization
 * Data Modeling & Domain Modeling
 * ETL / ELT Architecture
@@ -128,9 +84,9 @@ Areas I'm currently working with:
 
 | Project                                | Description                                                                                                                                                                     |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Database Migration & Data Platform** | Exploring a generalized data movement architecture for migrating data between heterogeneous databases with schema discovery, acquisition, transformations, CDC, and validation. |
+| **Data Platform** | Exploring a generalized data movement architecture for migrating data between heterogeneous databases with schema discovery, acquisition, transformations, CDC, and validation. |
 | **Oracle → PostgreSQL Pipeline**       | Working with Oracle schemas and data, transformation logic, PostgreSQL targets, and migration validation.                                                                       |
-| **WikiQA-Bench**                       | LLM evaluation and benchmarking framework using HotpotQA, DSPy optimization, faithfulness evaluation, LLM-as-a-Judge, and reflection techniques.                                |
+| **WikipediaQA-Agent-Bench**                       | LLM evaluation and benchmarking framework using HotpotQA, DSPy optimization, faithfulness evaluation, LLM-as-a-Judge, and reflection techniques.                                |
 | **Finzova**                            | Multi-agent financial AI platform for financial analysis and personalized recommendations.                                                                                      |
 | **JioHotstar Analytics Pipeline**      | Real-time analytics platform using Kafka, Spark, Delta Lake, ML models, and an AI reasoning layer.                                                                              |
 
@@ -150,10 +106,8 @@ Areas I'm currently working with:
 
 | Project                                                    | Description                                                                                                                 |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [WikiQA-Bench](https://github.com/Dinesh0401/WikiQA-Bench) | Benchmarking RAG systems through retrieval evaluation, prompt optimization, faithfulness evaluation, and LLM-based judging. |
-| [Finzova](https://github.com/Dinesh0401/financial-ai)      | Multi-agent financial planning and analysis platform.                                                                       |
-| AI Agent Projects                                          | Experiments with RAG, agent orchestration, structured outputs, evaluation, and AI application development.                  |
-
+| [WikipediaQA-Agent-Bench](https://github.com/Dinesh0401/WikiQA-Bench) | Benchmarking RAG systems through retrieval evaluation, prompt optimization, faithfulness evaluation, and LLM-based judging. |
+| [Finzova](https://github.com/Dinesh0401/financial-ai)      | Multi-agent financial planning and analysis platform.                                                                       
 ---
 
 ## What I'm Working Toward
