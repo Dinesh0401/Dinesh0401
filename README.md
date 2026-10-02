@@ -5,7 +5,7 @@
 <p align="center">
 Building practical <b>data and AI systems</b> — from database migration and data pipelines to LLM applications and evaluation.
 <br/>
-Currently working on <b>Data Platforms • Data Engineering • Database Migration • AI Systems</b>
+Currently working on <b>Data Platforms • Data Engineering • AI Systems</b>
 </p>
 
 ---
@@ -15,8 +15,6 @@ Currently working on <b>Data Platforms • Data Engineering • Database Migrati
 * Final-year Computer Science and Business Systems student
 * Currently working on **data platform and data engineering workflows**
 * Building database migration pipelines across **Oracle, PostgreSQL, and other database systems**
-* Exploring **CDC, redo logs, WAL, LogMiner, snapshots, durable state, and incremental data movement**
-* Designing transformation pipelines for **schema mapping, data type conversion, cleansing, validation, and normalization**
 * Working with **SQL, Python, Pandas, PostgreSQL, Oracle, and data pipeline architectures**
 * Previously built and experimented with **LLM evaluation, RAG systems, AI agents, and AI applications**
 * Interested in building reliable systems where **data can move, transform, validate, and power downstream applications**
