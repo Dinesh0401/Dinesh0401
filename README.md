@@ -22,7 +22,6 @@ Currently working on <b>Data Platforms • Data Engineering • AI Systems</b>
 ---
 
 ## Things I'm Currently Learning
-
 * Data Engineering & Data Platforms
 * Database Internals
 * CDC & Incremental Processing
@@ -36,7 +35,6 @@ Currently working on <b>Data Platforms • Data Engineering • AI Systems</b>
 * Distributed Data Processing
 * MLOps & AI Infrastructure
 * LLM Evaluation & RAG
-
 ---
 
 ## Tech Stack
