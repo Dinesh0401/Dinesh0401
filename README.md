@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 <p align="center">
-Building practical <b>Data and AI systems</b> — from database migration and data pipelines to LLM applications and evaluation.
+Building practical <b>Data and AI systems</b> and data pipelines to LLM applications and evaluation.
 <br/>
 Currently working on <b>Data Platforms • Data Engineering • AI Systems</b>
 </p>
