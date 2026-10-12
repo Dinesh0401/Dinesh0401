@@ -7,7 +7,7 @@ Building practical <b>Data and AI systems</b> and data pipelines to LLM applicat
 <br/>
 Currently working on <b>Data Platforms • Data Engineering • AI Systems</b>
 </p>
-
+ 
 ---
 
 ## About Me
