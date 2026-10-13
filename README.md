@@ -154,7 +154,7 @@ I'm particularly interested in systems where **data engineering and AI meet** â€
 
 ---
 
-<p align="center">
+<p align="center"> 
 <b>Building reliable data and AI systems â€” one pipeline at a time.</b>
 </p>
 
