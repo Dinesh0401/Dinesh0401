@@ -30,7 +30,7 @@ Currently working on <b>Data Platforms • Data Engineering • AI Systems</b>
 * Data Modeling & Domain Modeling
 * ETL / ELT Architecture
 * Kafka & Event-Driven Data Pipelines
-* Apache Spark
+* Apache Spark & Seatunnel
 * Delta Lake
 * Distributed Data Processing
 * MLOps & AI Infrastructure
