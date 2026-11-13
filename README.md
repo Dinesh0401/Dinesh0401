@@ -124,7 +124,6 @@ I'm particularly interested in systems where **data engineering and AI meet** â€
 
 ## Career Interests
 
-* Data Engineer
 * Data Platform Engineer
 * AI Engineer
 * Generative AI Engineer
